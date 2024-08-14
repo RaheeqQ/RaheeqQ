@@ -2,9 +2,9 @@
 
 <h1>About Me 📌</h1>
 
-- 👋 I am Raheeq Qassrawi
-- 🔭 I am fourth year computer engineer
-- 💻 I am learning frontend and make some projects 
+- 👋 I'm Raheeq Qassrawi
+- 🔭 I'm a fourth-year computer engineering student.
+- 💻 I'm learning frontend development and working on various projects.
 
 <br />
 
