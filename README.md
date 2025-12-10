@@ -32,4 +32,4 @@
   <img src="https://profile-counter.glitch.me/RaheeqQ/count.svg"></img>
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer) edit it 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
