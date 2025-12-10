@@ -4,7 +4,7 @@
 
 - 👋 I'm <strong>Raheeq Qassrawi</strong>  
 - 🎓 A fifth-year <strong>Computer Engineering</strong> student  
-- 💻 Learning <strong>Frontend Development</strong> and building real-world projects  
+- 💻 Learning <strong>Backend Development</strong> and building real-world projects  
 - 🚀 Passionate about technology, problem-solving, UI/UX, and creating impactful applications  
 
 <br />
