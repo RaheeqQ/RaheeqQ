@@ -81,11 +81,13 @@
 - Integrated a local LLM (Ollama) for AI-powered insights 
 <br />
 
-<h3>Sweet Management System</h3>
+<h3>HealthPal</h3>
 
-- Implemented secure authentication and role-based access control  
-- Designed and optimized MySQL database structure  
-- Improved code quality and maintainability through refactoring and enhanced database security  
+- Digital healthcare platform improving access to medical services in Palestine  
+- Enables remote consultations, medical sponsorships, medication coordination, and mental health support  
+- Built with Node.js, Express, MySQL, and JWT authentication using a layered architecture  
+- Supports interaction between patients, doctors, donors, and NGOs through secure APIs  
+- Includes secure authentication, external API integration, and scalable system design     
 
 <br />
 
